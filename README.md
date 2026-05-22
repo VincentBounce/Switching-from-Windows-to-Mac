@@ -1,6 +1,8 @@
 # Switching from Windows to Mac
 
 ---
+---
+---
 
 # ⌨️Advanced commands/hotkeys
 
